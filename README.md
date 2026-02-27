@@ -27,17 +27,15 @@
 ![Tech Explorer](https://img.shields.io/badge/Explorer-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white)
 
 ---
-<!-- ================== Projects / Repositories ================== -->
-## 📚 Projects / Repositories
 
-<ul>
-  {% for repo in github.repos %}
-    <li>
-      <a href="{{ repo.html_url }}" target="_blank">{{ repo.name }}</a> ⭐ {{ repo.stargazers_count }}
-    </li>
-  {% endfor %}
-</ul>
+## 📚 Projects / Repositories  
 
+<p align="center">
+  <b>love-project</b> ❤️ – HTML / CSS / Fun creative project <br>
+  <b>VisualWatch</b> 🖤 – Personal GitHub portfolio & exploration <br>
+  <b>EdTech-Learn</b> 📘 – Educational tech experiments <br>
+  <b>CodePlay</b> 💻 – C / Python practice playground
+</p>
 
 ---
 
@@ -54,7 +52,7 @@
 
 [![Profile Views](https://img.shields.io/badge/Profile_Views-👁️%20Count-blue?style=for-the-badge)](https://komarev.com/ghpvc/?username=VisualWatch)
 
-[![Work Time](https://img.shields.io/badge/Work_Time-🔥100+_hours-orange?style=for-the-badge)](#)
+[![Work Time](https://img.shields.io/badge/Work_Time-🔥26+_hours-orange?style=for-the-badge)](#)
 
 [![Download CV](https://img.shields.io/badge/Download_CV-Click_here-red?style=for-the-badge)](./assets/Sakib_All_Hasan_CV.pdf)
 
