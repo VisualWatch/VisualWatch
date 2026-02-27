@@ -1,6 +1,6 @@
 <!-- ================== HEADER GIF ================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="600" alt="VisualWatch Hacker Dark GIF"/>
+  <img src="https://raw.githubusercontent.com/VisualWatch/VisualWatch/main/assets/visualwatch-header.gif" width="600" alt="VisualWatch Hacker Dark GIF"/>
 </p>
 
 # 👋 Hello, I'm VisualWatch  
@@ -45,13 +45,13 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VisualWatch&show_icons=true&theme=tokyonight)
+![VisualWatch's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisualWatch&show_icons=true&theme=dark)
 
 ---
 
 ## 🔥 Streak Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VisualWatch&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VisualWatch&theme=dark)
 
 ---
 
