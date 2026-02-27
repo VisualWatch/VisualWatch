@@ -1,140 +1,167 @@
-# 🌌 𝕋ℍ𝔼 𝕀ℕ𝔽𝕀ℕ𝕀𝕋𝔼 ℂ𝕆𝔻𝕀ℕ𝔾 𝕄𝕌𝕃𝕋𝕀𝕍𝔼ℝ𝕊𝔼 🚀
+# 🚀 **Welcome To My GitHub Profile** 🌟
 
-<!-- ===================== PART 1: HYPERSPACE WELCOME PORTAL (200+ ANIMATIONS) ===================== -->
-
-<!-- Cosmic Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
-
-<!-- 3D Capsule Render with Particles -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:FF1493,100:4B0082&height=400&section=header&text=✦%20VISUALWATCH%20✦&fontSize=90&fontColor=FFFFFF&animation=twinkling&fontAlignY=30&desc=⚡%20SAKIB%20ALL%20HASAN%20|%20HSC%202026%20|%20EDTECH%20ARCHITECT%20⚡&descSize=25&descAlignY=55" width="100%">
-</p>
-
-<!-- Matrix Rain Effect -->
-<p align="center">
-  <img src="https://imgur.com/z62bTTS.gif" width="100%">
-</p>
-
-<!-- Neon Glow Welcome Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=2000&pause=1000&color=F7009F&center=true&vCenter=true&repeat=true&width=1400&lines=🚀+🚀+🚀+🚀+🚀+🚀+🚀+🚀+🚀+🚀;🌟+WELCOME+TO+THE+FUTURE+🌟;💫+SYSTEM+INITIALIZING...+💫;🌍+BANGLADESH+TO+THE+WORLD+🌍;⚡+POWER+LEVEL+OVER+9000+⚡;🔮+MULTIVERSE+PORTAL+OPEN+🔮" alt="3D Typing Effect">
-</p>
-
-<!-- Animated Stars Background -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="80" width="100%">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="80" width="100%">
-</p>
-
-<!-- Cosmic Wave Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- 3D Rotating Earth Effect -->
+<!-- Animated Welcome Text -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=👋+হ্যালো+আমি+Sakib;🚀+Student+%7C+Tech+Explorer;💻+C+%7C+HTML+%7C+CSS+%7C+Python;🌟+HSC+Candidate+2026" alt="Typing Animation">
 </p>
 
-<!-- Particle Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
 </p>
 
-<!-- Welcome Banner with Multiple Animations -->
+---
+
+## 👨‍🎓 **About Me**
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 30px;">
 </p>
 
-<!-- ===================== PART 2: THE CREATOR'S IDENTITY MATRIX (300 LINES) ===================== -->
-
-<!-- Floating Welcome Waves -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100">
+  <b>Sakib All Hasan</b><br>
+  🎓 HSC Candidate 2026<br>
+  💻 Learning: C Programming, HTML, CSS, Python<br>
+  🎯 Goal: AI + EdTech<br>
+  ❤️ From Bangladesh
 </p>
 
-<!-- Main Identity Card with Neon Border -->
-<div align="center">
-  <table border="0" cellpadding="30" style="border: 8px solid transparent; border-image: linear-gradient(45deg, #ff0080, #00f2fe, #8a2be2, #ff1493, #00f2fe); border-image-slice: 1; background: linear-gradient(145deg, #0a0a1f, #1a0033, #000428); border-radius: 100px; width: 98%; box-shadow: 0 0 200px #ff0080, 0 0 300px #00f2fe;">
+<p align="center">
+  <i>"আমি অনুপমের প্রথম সত্ত্বাও নই শেষ সত্ত্বাও নই, মধ্যবর্তী এক সত্ত্বার নাম ..."</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
+---
+
+## 🛠️ **My Skills**
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50">
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/70/?title=C&width=100&color=ff0080">
+  <img src="https://progress-bar.dev/85/?title=HTML&width=100&color=ff6347">
+  <img src="https://progress-bar.dev/80/?title=CSS&width=100&color=1e90ff">
+  <img src="https://progress-bar.dev/40/?title=Python&width=100&color=00f2fe">
+  <img src="https://progress-bar.dev/55/?title=JS&width=100&color=ffd700">
+  <img src="https://progress-bar.dev/50/?title=Git&width=100&color=f05032">
+  <img src="https://progress-bar.dev/60/?title=GitHub&width=100&color=ffffff">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VisualWatch&show_icons=true&theme=radical&border_radius=20" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisualWatch&layout=compact&theme=radical&border_radius=20" width="38%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisualWatch&theme=radical&border_radius=20" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
+---
+
+## 🚀 **Projects**
+
+<p align="center">
+  <table border="0" align="center">
     <tr>
-      <td align="center" colspan="3">
-        <!-- Animated Crown -->
-        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400">
-        <h1 style="color: #ff69b4; font-size: 90px; text-shadow: 0 0 40px #ff0080, 0 0 80px #8a2be2, 0 0 120px #00f2fe;">✦ 𝐈𝐃𝐄𝐍𝐓𝐈𝐓𝐘 𝐌𝐀𝐓𝐑𝐈𝐗 ✦</h1>
-        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400">
-        <!-- Rotating Galaxy -->
-        <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="300">
+      <td align="center" width="200">
+        <b>❤️ Love Project</b><br>
+        <img src="https://progress-bar.dev/60/?width=120&color=ff0080">
+      </td>
+      <td align="center" width="200">
+        <b>🌌 VisualWatch</b><br>
+        <img src="https://progress-bar.dev/80/?width=120&color=8a2be2">
+      </td>
+      <td align="center" width="200">
+        <b>📚 EdTech-Learn</b><br>
+        <img src="https://progress-bar.dev/40/?width=120&color=00f2fe">
       </td>
     </tr>
     <tr>
-      <td align="center" width="33%" style="border-right: 4px solid #ff69b4; border-bottom: 4px solid #ff69b4; border-radius: 50px; padding: 50px;">
-        <!-- Left Side Animations -->
-        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="300" style="border-radius: 50%; border: 8px solid #ff69b4; box-shadow: 0 0 60px #ff69b4;">
-        <br><br>
-        <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="250">
-        <br><br>
-        <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="280">
-        <br><br>
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250">
+      <td align="center">
+        <b>🎮 CodePlay</b><br>
+        <img src="https://progress-bar.dev/70/?width=120&color=ff69b4">
       </td>
-      <td align="center" width="34%" style="border-right: 4px solid #ff69b4; border-bottom: 4px solid #ff69b4; border-radius: 50px; padding: 50px;">
-        <!-- Center - Main Info -->
-        <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="350">
-        <br><br>
-        <h2 style="color: #00f2fe; font-size: 60px; text-shadow: 0 0 30px #00f2fe;">𝐒𝐀𝐊𝐈𝐁 𝐀𝐋𝐋 𝐇𝐀𝐒𝐀𝐍</h2>
-        <br>
-        <!-- Animated Badges -->
-        <img src="https://img.shields.io/badge/STATUS-HSC_2026-ff69b4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=black&color=ff0080&size=40">
-        <br><br>
-        <img src="https://img.shields.io/badge/ROLE-EDTECH_ARCHITECT-00f2fe?style=for-the-badge&logo=ai&logoColor=white&labelColor=black&color=8a2be2&size=40">
-        <br><br>
-        <img src="https://img.shields.io/badge/LOCATION-BANGLADESH-ff69b4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=black&color=00f2fe&size=40">
-        <br><br>
-        <img src="https://img.shields.io/badge/AGE-17-ff69b4?style=for-the-badge&logo=birthday&logoColor=white&labelColor=black&color=ff0080&size=40">
-        <br><br>
-        <!-- Profile Views Counter with Animation -->
-        <img src="https://komarev.com/ghpvc/?username=VisualWatch&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS" width="300">
-        <br><br>
-        <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="350">
+      <td align="center">
+        <b>🤖 Smart AI</b><br>
+        <img src="https://progress-bar.dev/30/?width=120&color=adff2f">
       </td>
-      <td align="center" width="33%" style="border-bottom: 4px solid #ff69b4; border-radius: 50px; padding: 50px;">
-        <!-- Right Side Animations -->
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" style="border-radius: 50%; border: 8px solid #00f2fe; box-shadow: 0 0 60px #00f2fe;">
-        <br><br>
-        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250">
-        <br><br>
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280">
-        <br><br>
-        <img src="https://media.giphy.com/media/l0MYt5jH6gkTWm8qo/giphy.gif" width="250">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="3" style="padding: 50px;">
-        <!-- Bottom Banner with Quote -->
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="500">
-        <br><br>
-        <!-- Bengali Quote with Animation -->
-        <p style="color: #ffd700; font-size: 45px; font-family: 'Hind Siliguri'; text-shadow: 0 0 30px #ff0080, 0 0 60px #00f2fe;">
-          "আমি অনুপমের প্রথম সত্ত্বাও নই, শেষ সত্ত্বাও নই,<br>মধ্যবর্তী এক সত্ত্বার নাম ... ❤️"
-        </p>
-        <br>
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="500">
-        <br><br>
-        <!-- 3D Text Animation -->
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=1200&lines=❤️+CODE+WITH+LOVE+FROM+BANGLADESH+❤️;🌍+MAKING+THE+WORLD+BETTER+ONE+LINE+AT+A+TIME+🌍" alt="Quote Typing">
+      <td align="center">
+        <b>🌟 Portfolio</b><br>
+        <img src="https://progress-bar.dev/75/?width=120&color=ffa500">
       </td>
     </tr>
   </table>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
+---
+
+## 📫 **Contact Me**
+
+<p align="center">
+  <a href="mailto:sakiballhasan2008@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61582830779543">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/alpha.hydrogen_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://t.me/sakib_all_hasan">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://www.threads.net/@alpha.hydrogen_">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
+---
+
+## 🎵 **Random Quote**
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<p align="center">
+  <b>⭐ Thanks for visiting! ⭐</b><br>
+  <img src="https://komarev.com/ghpvc/?username=VisualWatch&color=ff69b4">
+</p>
