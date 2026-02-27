@@ -29,6 +29,93 @@
 
 ---
 
+---
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #0f0f0f, #1a001f);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Segoe UI', sans-serif;
+    overflow: hidden;
+}
+
+.container {
+    text-align: center;
+    animation: fadeIn 2s ease-in-out;
+}
+
+h1 {
+    color: #ff4da6;
+    font-size: 3rem;
+    text-shadow: 0 0 15px #ff4da6,
+                 0 0 30px #ff1a8c;
+    animation: glow 2s infinite alternate;
+}
+
+p {
+    color: #ffffff;
+    font-size: 1.2rem;
+    margin-top: 10px;
+    opacity: 0.8;
+}
+
+.heart {
+    width: 100px;
+    height: 100px;
+    background: #ff1a75;
+    position: relative;
+    transform: rotate(-45deg);
+    margin: 40px auto;
+    animation: heartbeat 1.2s infinite;
+    box-shadow: 0 0 20px #ff1a75;
+}
+
+.heart:before,
+.heart:after {
+    content: "";
+    width: 100px;
+    height: 100px;
+    background: #ff1a75;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.heart:before {
+    top: -50px;
+    left: 0;
+}
+
+.heart:after {
+    left: 50px;
+    top: 0;
+}
+
+@keyframes heartbeat {
+    0% { transform: rotate(-45deg) scale(1); }
+    25% { transform: rotate(-45deg) scale(1.1); }
+    50% { transform: rotate(-45deg) scale(1); }
+    75% { transform: rotate(-45deg) scale(1.1); }
+    100% { transform: rotate(-45deg) scale(1); }
+}
+
+@keyframes glow {
+    from { text-shadow: 0 0 10px #ff4da6; }
+    to { text-shadow: 0 0 25px #ff1a8c; }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+</style>
+---
+---
 ## 📚 Projects / Repositories  
 
 <p align="center">
