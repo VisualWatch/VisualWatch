@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F15BB5&center=true&vCenter=true&width=600&lines=HSC+Candidate+2026+🎓;Mastering+C+Programming+💻;Building+Web+with+HTML+🌐;Git+Knowledge+Inside+🔧" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F15BB5&center=true&vCenter=true&width=600&lines=HSC+Candidate+2026+🎓;Mastering+C+Programming+💻;Building+Web+with+HTML+🌐;Git+Knowledge+Inside+🔧" />
 </p>
 
 <div align="center">
@@ -19,125 +19,89 @@
 
 ## 🪐 <ins>Mission Log: The Creator</ins>
 
-<table width="100%">
-  <tr>
-    <td width="65%" style="vertical-align: top;">
-      <h3>Greetings, Traveler! 👋</h3>
-      <p>I am <b>Sakib All Hasan</b>, a student and a tech enthusiast currently navigating through the vast universe of code. As an <b>HSC Candidate 2026</b>, I balance my academic studies with a deep passion for software and education technology.</p>
-      
-      <p>✨ <b>Personal Quote:</b> <i>“আমি অনুপমের প্রথম সত্ত্বাও নই শেষ সত্ত্বাও নই, মধ্যবর্তী এক সত্ত্বার নাম ... ❤️”</i></p>
-      
-      <p>🎯 <b>Core Focus:</b> My primary goal is to master the logic of <b>C Programming</b> and the structural beauty of <b>HTML</b>. I believe in building a strong foundation before jumping into complex frameworks.</p>
-      
-      <p>🚀 <b>The Vision:</b> I dream of building impactful <b>EdTech solutions</b> and AI-driven tools that can revolutionize how students learn in Bangladesh.</p>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bjZreG9yZ3p4bm9yeXp3ZzZ4bm9yeXp3ZzZ4bm9yeXp3ZzZ4bm9yeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
+
+### 👋 Greetings, Traveler!
+I am **Sakib All Hasan**, a student and a tech enthusiast navigating through the vast universe of code. As an **HSC Candidate 2026**, I balance my academic studies with a deep passion for software and education technology.
+
+> *“আমি অনুপমের প্রথম সত্ত্বাও নই শেষ সত্ত্বাও নই, মধ্যবর্তী এক সত্ত্বার নাম ... ❤️”*
+
+* 🎯 **Core Focus:** My primary goal is to master the logic of **C Programming** and the structural beauty of **HTML**.
+* 🚀 **The Vision:** I dream of building impactful **EdTech solutions** that can revolutionize learning.
 
 ---
 
-## 🛸 <ins>Tech Universe & Skills</ins>
+## 🛸 <ins>Tech Universe</ins>
 
-<div align="center">
-  <p>Currently expanding my knowledge in these core sectors:</p>
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=c,html,css,github,vscode,md,git&theme=dark" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,html,css,github,vscode,git,markdown&theme=dark" />
+  </a>
+</p>
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td><b>C Programming (Logic)</b></td>
-    <td><code>[▓▓▓▓▓░░░░░] 50%</code></td>
-  </tr>
-  <tr>
-    <td><b>Web Layout (HTML5)</b></td>
-    <td><code>[▓▓▓▓▓▓░░░░] 65%</code></td>
-  </tr>
-  <tr>
-    <td><b>Version Control (Git)</b></td>
-    <td><code>[▓▓▓▓░░░░░░] 40%</code></td>
-  </tr>
-</table>
-
----
-
-## 🧬 <ins>The Evolution Timeline</ins>
-
-- 📍 **2024:** Started exploring the basics of the Digital World.
-- 📍 **Early 2025:** Dived deep into **HTML** and understood web structures.
-- 📍 **Currently:** Mastering **C Programming** to strengthen my problem-solving skills.
-- 📍 **Future:** Moving towards advanced Web Technologies and AI Integration.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJid3ZqZ3R6bm9yeXp3ZzZ4bm9yeXp3ZzZ4bm9yeXp3ZzZ4bm9yeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxxcaOXYQ9O/giphy.gif" width="300"/>
-</p>
-
----
-
-## 📈 <ins>Universe Analytics</ins>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=VisualWatch&show_icons=true&theme=radical&border_radius=15" width="450" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisualWatch&layout=compact&theme=radical&border_radius=15" width="350" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisualWatch&theme=radical&border_radius=15" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+| Skill | Proficiency | Level |
+| :--- | :--- | :--- |
+| **C Programming** | `[▓▓▓▓▓░░░░░]` | 50% |
+| **Web (HTML/CSS)** | `[▓▓▓▓▓▓░░░░]` | 65% |
+| **Version Control**| `[▓▓▓▓░░░░░░]` | 40% |
 
 ---
 
 ## 📂 <ins>Digital Masterpieces</ins>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" style="border: 1px solid #ff1493; border-radius: 10px; padding: 15px;">
-        <b>❤️ love-project</b><br>
-        A creative HTML/CSS project focused on visual aesthetics and animations.
-      </td>
-      <td width="50%" style="border: 1px solid #8A2BE2; border-radius: 10px; padding: 15px;">
-        <b>🖤 VisualWatch</b><br>
-        My main hub for high-end profile customization and system organization.
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" style="border: 1px solid #00BFFF; border-radius: 10px; padding: 15px;">
-        <b>📘 EdTech-Learn</b><br>
-        Exploring educational structures and building tools for better learning.
-      </td>
-      <td width="50%" style="border: 1px solid #32CD32; border-radius: 10px; padding: 15px;">
-        <b>💻 CodePlay</b><br>
-        A repository dedicated to my daily practice of C and Web logic.
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisualWatch&repo=love-project&theme=radical&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisualWatch&repo=VisualWatch&theme=radical&show_owner=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisualWatch&repo=EdTech-Learn&theme=radical&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisualWatch&repo=CodePlay&theme=radical&show_owner=true" />
+</p>
 
 ---
 
-## 📅 <ins>Weekly Rhythm</ins>
+## 📈 <ins>Evolution Metrics</ins>
 
-```text
-Monday    - [██████░░░░] Learning C Fundamentals
-Tuesday   - [███████░░░] HTML Layout Building
-Wednesday - [████░░░░░░] Git/GitHub Workflow
-Thursday  - [████████░░] Project Experimenting
-Friday    - [████░░░░░░] Review & Documentation
-Saturday  - [█████████░] Learning New Tech Concepts
-Sunday    - [██░░░░░░░░] Rest & Planning
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VisualWatch&show_icons=true&theme=radical&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisualWatch&layout=compact&theme=radical&border_radius=15" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisualWatch&theme=radical&border_radius=15" width="85%" />
+</p>
+
+---
+
+## 📡 <ins>Establish Connection</ins>
+
+<p align="center">
+  <a href="mailto:sakiballhasan2008@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61582830779543">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.threads.net/@alpha.hydrogen_">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/alpha.hydrogen_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/sakib_all_hasan">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
+<div align="center">
+  <code>System.exit(0); // Mission Accomplished</code>
+</div>
