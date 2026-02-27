@@ -15,17 +15,24 @@
 ---
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); border: 2px solid #ff4da6; border-radius: 25px; padding: 30px;">
-        <h2 style="color: #ff4da6; text-align:center;">🛸 Mission Log: The Creator</h2>
-        <p style="color: #00F2FE; font-size: 1.15em; line-height:1.5;">
-          I am an <b>HSC Candidate 2026</b>, diving deep into <b>C Programming</b> logic and crafting structures with <b>HTML & CSS</b>. My mission: combine AI + EdTech to build legendary solutions.
-        </p>
-        <p style="color: #ffffff; text-align:center;"><i>“আমি অনুপমের প্রথম সত্ত্বাও নই শেষ সত্ত্বাও নই, মধ্যবর্তী এক সত্ত্বার নাম ... ❤️”</i></p>
-      </td>
-    </tr>
-  </table>
+
+<table width="100%">
+<tr>
+<td style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); border: 2px solid #ff4da6; border-radius: 25px; padding: 30px;">
+
+<h2 style="color: #ff4da6; text-align:center;">🛸 Mission Log: The Creator</h2>
+
+<p style="color:#00F2FE; font-size:1.15em; line-height:1.5;">
+I am an <span style="color:#FF1493; font-weight:bold;">HSC Candidate 2026</span>, diving deep into <span style="color:#8A2BE2; font-weight:bold;">C Programming logic</span> and crafting structures with <span style="color:#00F2FE; font-weight:bold;">HTML & CSS</span>.  
+My mission: combine <span style="color:#FF8C00; font-weight:bold;">AI 🤖</span> + <span style="color:#ADFF2F; font-weight:bold;">EdTech 📚</span> to build <span style="color:#FF69B4; font-weight:bold;">legendary solutions ✨</span>.
+</p>
+
+<p style="color: #ffffff; text-align:center;"><i>“আমি অনুপমের প্রথম সত্ত্বাও নই শেষ সত্ত্বাও নই, মধ্যবর্তী এক সত্ত্বার নাম ... ❤️”</i></p>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <p align="center">
@@ -34,24 +41,14 @@
 
 ---
 
-<h2 align="center" style="color: #8A2BE2;">🛠️ Digital Arsenal</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,git,github,vscode,md&theme=dark" />
-  </a>
-</p>
+<h2 align="center" style="color:#8A2BE2;">🛠️ Skills & Tech Arsenal</h2>
 
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td><b style="color: #ff0080;">C Logic:</b></td>
-      <td><img src="https://geps.dev/progress/50?dangerColor=ff0080&warningColor=8a2be2&successColor=00f2fe" width="230" /></td>
-    </tr>
-    <tr>
-      <td><b style="color: #8a2be2;">Web Base:</b></td>
-      <td><img src="https://geps.dev/progress/65?dangerColor=ff0080&warningColor=8a2be2&successColor=00f2fe" width="230" /></td>
-    </tr>
-  </table>
+<div align="center" style="font-size:1.1em; line-height:1.8;">
+
+<span style="color:#FF0080; font-weight:bold;">C Programming:</span> ▓▓▓▓▓░░░░░ 50%  
+<span style="color:#8A2BE2; font-weight:bold;">Web (HTML/CSS):</span> ▓▓▓▓▓▓░░░░ 65%  
+<span style="color:#00F2FE; font-weight:bold;">Git & GitHub:</span> ▓▓▓▓░░░░░░ 40%  
+
 </div>
 
 <p align="center">
@@ -60,67 +57,62 @@
 
 ---
 
-<h2 align="center" style="color: #00F2FE;">📂 Featured Masterpieces</h2>
+<h2 align="center" style="color:#00F2FE;">📂 Featured Projects</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisualWatch&repo=love-project&theme=neon&border_radius=15&title_color=ff0080" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisualWatch&repo=VisualWatch&theme=neon&border_radius=15&title_color=8a2be2" />
-</p>
+<div align="center" style="font-size:1.1em; line-height:1.8;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisualWatch&repo=EdTech-Learn&theme=neon&border_radius=15&title_color=00f2fe" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisualWatch&repo=CodePlay&theme=neon&border_radius=15&title_color=ff4da6" />
-</p>
+<b style="color:#FF0080;">Love Project ❤️</b> – Creative logic & UI experiments  
+<b style="color:#8A2BE2;">VisualWatch 🌌</b> – Personal tech & coding repository  
+<b style="color:#00F2FE;">EdTech-Learn 📚</b> – AI-powered learning tools  
+<b style="color:#FF69B4;">CodePlay 💻</b> – Fun coding playground & experiments  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
-</p>
-
----
-
-<h2 align="center" style="color: #ff4da6;">📊 Evolution Metrics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VisualWatch&show_icons=true&theme=neon&hide_border=false&border_radius=15" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisualWatch&layout=compact&theme=neon&hide_border=false&border_radius=15" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisualWatch&theme=neon&border_radius=15" width="85%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
-</p>
-
----
-
-<h2 align="center" style="color: #8A2BE2;">📡 Establish Secure Connection</h2>
-
-<p align="center">
-  <a href="mailto:sakiballhasan2008@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=61582830779543"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.threads.net/@alpha.hydrogen_"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
-  <a href="https://www.instagram.com/alpha.hydrogen_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/sakib_all_hasan"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,100:4b0082&height=10"/>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VisualWatch&style=for-the-badge&color=blueviolet&label=Profile+Scanned" />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
+---
+
+<h2 align="center" style="color:#FF4DA6;">📊 GitHub Metrics & Growth</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VisualWatch&show_icons=true&theme=radical&hide_border=false&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisualWatch&layout=compact&theme=radical&hide_border=false&border_radius=15" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisualWatch&theme=radical&border_radius=15" width="85%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
+---
+
+<h2 align="center" style="color:#8A2BE2;">📡 Connect With Me</h2>
+
+<p align="center">
+<a href="mailto:sakiballhasan2008@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=61582830779543"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.threads.net/@alpha.hydrogen_"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
+<a href="https://www.instagram.com/alpha.hydrogen_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://t.me/sakib_all_hasan"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
+---
+
 <div align="center">
-  <code style="color: #ff4da6;">while(alive) { learn(); evolve(); } // End of Log</code>
+
+<span style="color:#FF69B4; font-weight:bold; font-family:monospace; font-size:1.1em;">
+while(alive) { learn(); evolve(); } 🚀 // End of Log
+</span>
+
 </div>
 
 <p align="center">
