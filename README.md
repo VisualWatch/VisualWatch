@@ -28,93 +28,23 @@
 ![Tech Explorer](https://img.shields.io/badge/Explorer-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white)
 
 ---
+<!-- ================= LOVE WELCOME ANIMATION ================= -->
 
----
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-body {
-    margin: 0;
-    padding: 0;
-    background: linear-gradient(135deg, #0f0f0f, #1a001f);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    font-family: 'Segoe UI', sans-serif;
-    overflow: hidden;
-}
+<h1 align="center">💖 Welcome 💖</h1>
 
-.container {
-    text-align: center;
-    animation: fadeIn 2s ease-in-out;
-}
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile+✨;Made+with+Love+by+Sakib+All+Hasan+💖;Tech+%7C+Love+%7C+Creativity+🚀" />
+</p>
 
-h1 {
-    color: #ff4da6;
-    font-size: 3rem;
-    text-shadow: 0 0 15px #ff4da6,
-                 0 0 30px #ff1a8c;
-    animation: glow 2s infinite alternate;
-}
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
+</p>
 
-p {
-    color: #ffffff;
-    font-size: 1.2rem;
-    margin-top: 10px;
-    opacity: 0.8;
-}
+<p align="center">
+  💌 Spreading positivity & creativity through code 💫
+</p>
 
-.heart {
-    width: 100px;
-    height: 100px;
-    background: #ff1a75;
-    position: relative;
-    transform: rotate(-45deg);
-    margin: 40px auto;
-    animation: heartbeat 1.2s infinite;
-    box-shadow: 0 0 20px #ff1a75;
-}
-
-.heart:before,
-.heart:after {
-    content: "";
-    width: 100px;
-    height: 100px;
-    background: #ff1a75;
-    border-radius: 50%;
-    position: absolute;
-}
-
-.heart:before {
-    top: -50px;
-    left: 0;
-}
-
-.heart:after {
-    left: 50px;
-    top: 0;
-}
-
-@keyframes heartbeat {
-    0% { transform: rotate(-45deg) scale(1); }
-    25% { transform: rotate(-45deg) scale(1.1); }
-    50% { transform: rotate(-45deg) scale(1); }
-    75% { transform: rotate(-45deg) scale(1.1); }
-    100% { transform: rotate(-45deg) scale(1); }
-}
-
-@keyframes glow {
-    from { text-shadow: 0 0 10px #ff4da6; }
-    to { text-shadow: 0 0 25px #ff1a8c; }
-}
-
-@keyframes fadeIn {
-    from { opacity: 0; transform: translateY(30px); }
-    to { opacity: 1; transform: translateY(0); }
-}
-</style>
----
+<!-- =========================================================== -->
 ---
 ## 📚 Projects / Repositories  
 
