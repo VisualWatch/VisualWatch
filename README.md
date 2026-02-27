@@ -1,14 +1,22 @@
 <!-- ================== HEADER GIF ================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VisualWatch/VisualWatch/main/assets/visualwatch-header.gif" width="600" alt="VisualWatch Hacker Dark GIF"/>
+  <img src="https://raw.githubusercontent.com/SakibAllHasan/SakibAllHasan/main/assets/header.gif" width="600" alt="Sakib All Hasan Hacker Dark GIF"/>
 </p>
 
-# 👋 Hello, I'm VisualWatch  
+# 👋 Hello, I'm Sakib All Hasan  
 
 🎓 Student & Tech Explorer  
 💻 Learning C Programming  
-🌍 Interested in EdTech & Technology Adventures  
-🚀 Exploring the world of GitHub  
+🌍 Exploring Tech & EdTech Adventures  
+🚀 Passionate about discovering new technologies  
+
+---
+
+## ✨ Favorite Quote  
+
+<p align="center">
+  <i>"আমি অনুপমের প্রথম সত্ত্বাও নই শেষ সত্ত্বাও নই, মধ্যবর্তী এক সত্ত্বার নাম ...❤️"</i>
+</p>
 
 ---
 
@@ -22,9 +30,9 @@
 ## 📚 Currently Exploring  
 
 - 🌱 Improving C programming  
-- 🧠 Learning how software & systems work  
-- 🎯 Planning to build something in EdTech  
-- 🔍 Exploring open-source world  
+- 🧠 Understanding software & systems deeply  
+- 🎯 Planning EdTech related projects  
+- 🔍 Exploring open-source & tech innovations  
 
 ---
 
@@ -45,16 +53,16 @@
 
 ## 📊 GitHub Stats  
 
-![VisualWatch's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisualWatch&show_icons=true&theme=dark)
+![Sakib All Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=SakibAllHasan&show_icons=true&theme=dark)
 
 ---
 
 ## 🔥 Streak Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VisualWatch&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakibAllHasan&theme=dark)
 
 ---
 
 ## 👀 Profile Views  
 
-![Profile views](https://komarev.com/ghpvc/?username=VisualWatch&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=SakibAllHasan&color=blue)
