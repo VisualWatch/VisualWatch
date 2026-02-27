@@ -3,12 +3,12 @@
   <img src="./assets/visualwatch-header.gif" width="600" alt="Sakib All Hasan Hacker Dark GIF"/>
 </p>
 
-# 👋 Hello, I'm Sakib All Hasan  
+# 👋 Hello there, I am Sakib All Hasan  
 
-🎓 Student & Tech Explorer  
-💻 Learning C Programming  
-🌍 Exploring Tech & EdTech Adventures  
-🚀 Passionate about discovering new technologies  
+🎓 Student & Tech Explorer ✨  
+💻 Learning C Programming 💡  
+🌍 Exploring Tech & EdTech Adventures 🚀  
+🕹 Tech Enthusiast & Creative Explorer 🌌  
 
 ---
 
@@ -23,18 +23,38 @@
 ## 🛠 Current Skills  
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Tech Explorer](https://img.shields.io/badge/Explorer-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white)
 
 ---
 
-## 📚 Currently Exploring  
+## 💼 Work Time & Profile Views  
 
-- 🌱 Improving C programming  
-- 🧠 Understanding software & systems deeply  
-- 🎯 Planning EdTech related projects  
-- 🔍 Exploring open-source & tech innovations  
+<p align="center">
+  🕒 Work Hours: 10:00 AM – 10:00 PM 🌟  
+</p>
+
+<p align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=VisualWatch&color=blue)
+</p>
 
 ---
+
+## 📚 Projects / Repositories  
+
+<p align="center">
+  <b>love-project</b> ❤️ – HTML / CSS / Fun creative project <br>
+  <b>VisualWatch</b> 🖤 – Personal GitHub portfolio & exploration <br>
+  <b>EdTech-Learn</b> 📘 – Educational tech experiments <br>
+  <b>CodePlay</b> 💻 – C / Python practice playground
+</p>
+
+---
+
+<!-- ================== Animated Contact Emoji ================== -->
+<p align="center">
+  <img src="./assets/contact-emoji.gif" width="80" alt="Animated Contact Emoji"/>
+</p>
 
 ## 🌐 Connect With Me  
 
@@ -58,9 +78,3 @@
 ## 🔥 Streak Stats  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VisualWatch&theme=dark)
-
----
-
-## 👀 Profile Views  
-
-![Profile views](https://komarev.com/ghpvc/?username=VisualWatch&color=blue)
