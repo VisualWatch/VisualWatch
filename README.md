@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=👋+Hello,+I+am+Sakib+All+Hasan;+Student+%7C+Tech+Explorer;+Future+EdTech+Architect" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
 ---
 
 <div align="center">
@@ -50,6 +54,10 @@
   </table>
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
 ---
 
 <h2 align="center" style="color: #00F2FE;">📂 <ins>Featured Masterpieces</ins></h2>
@@ -62,6 +70,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisualWatch&repo=EdTech-Learn&theme=neon&border_radius=15&title_color=00f2fe" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VisualWatch&repo=CodePlay&theme=neon&border_radius=15&title_color=ff4da6" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
 </p>
 
 ---
@@ -77,6 +89,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisualWatch&theme=neon&border_radius=15" width="85%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
 ---
 
 <h2 align="center" style="color: #8A2BE2;">📡 <ins>Establish Secure Connection</ins></h2>
@@ -87,6 +103,10 @@
   <a href="https://www.threads.net/@alpha.hydrogen_"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
   <a href="https://www.instagram.com/alpha.hydrogen_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/sakib_all_hasan"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
 </p>
 
 ---
@@ -102,3 +122,7 @@
 <div align="center">
   <code style="color: #ff4da6;">while(alive) { learn(); evolve(); } // End of Log</code>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
