@@ -1,3 +1,24 @@
+---
+<!-- ================= LOVE WELCOME ANIMATION ================= -->
+
+<h1 align="center">💖 Welcome 💖</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile+✨;Made+with+Love+by+Sakib+All+Hasan+💖;Tech+%7C+Love+%7C+Creativity+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
+</p>
+
+<p align="center">
+  💌 Spreading positivity & creativity through code 💫
+</p>
+
+<!-- =========================================================== -->
+
+
+
 <!-- ================== HEADER GIF ================== -->
 <p align="center">
   <img src="./assets/visualwatch-header.gif" width="600" alt="Sakib All Hasan Hacker Dark GIF"/>
@@ -28,23 +49,7 @@
 ![Tech Explorer](https://img.shields.io/badge/Explorer-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white)
 
 ---
-<!-- ================= LOVE WELCOME ANIMATION ================= -->
 
-<h1 align="center">💖 Welcome 💖</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile+✨;Made+with+Love+by+Sakib+All+Hasan+💖;Tech+%7C+Love+%7C+Creativity+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
-</p>
-
-<p align="center">
-  💌 Spreading positivity & creativity through code 💫
-</p>
-
-<!-- =========================================================== -->
 ---
 ## 📚 Projects / Repositories  
 
