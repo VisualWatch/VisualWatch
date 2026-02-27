@@ -1,6 +1,6 @@
 <!-- ================== HEADER GIF ================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SakibAllHasan/SakibAllHasan/main/assets/header.gif" width="600" alt="Sakib All Hasan Hacker Dark GIF"/>
+  <img src="./assets/visualwatch-header.gif" width="600" alt="Sakib All Hasan Hacker Dark GIF"/>
 </p>
 
 # 👋 Hello, I'm Sakib All Hasan  
@@ -51,16 +51,16 @@
 
 ## 📊 GitHub Stats  
 
-![Sakib All Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=SakibAllHasan&show_icons=true&theme=dark)
+![Sakib All Hasan GitHub stats](https://github-readme-stats.vercel.app/api?username=VisualWatch&show_icons=true&theme=dark)
 
 ---
 
 ## 🔥 Streak Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakibAllHasan&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VisualWatch&theme=dark)
 
 ---
 
 ## 👀 Profile Views  
 
-![Profile views](https://komarev.com/ghpvc/?username=SakibAllHasan&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=VisualWatch&color=blue)
