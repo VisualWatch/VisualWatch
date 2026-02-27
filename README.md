@@ -1,73 +1,73 @@
+# 🌌 𝕋ℍ𝔼 𝕀ℕ𝔽𝕀ℕ𝕀𝕋𝔼 ℂ𝕆𝔻𝕀ℕ𝔾 𝕄𝕌𝕃𝕋𝕀𝕍𝔼ℝ𝕊𝔼 🚀
 
-
-<!-- ===================== HYPERSPACE WELCOME ANIMATION ===================== -->
+<!-- ===================== PART 1: HYPERSPACE WELCOME PORTAL ===================== -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=300&section=header&text=✦%20VISUALWATCH%20✦&fontSize=80&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=⚡%20CODE%20ARCHITECT%20|%20AI%20ENTHUSIAST%20|%20FUTURE%20CREATOR%20⚡&descSize=25&descAlignY=55" width="100%">
 </p>
+
+<!-- 3D Rotating Text Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=1200&lines=🚀+🚀+🚀+🚀+🚀+🚀+🚀+🚀+🚀+🚀;🌟+WELCOME+TO+THE+FUTURE+🌟;💫+SAKIB+ALL+HASAN+ONLINE+💫;🌍+BANGLADESH+TO+THE+WORLD+🌍;⚡+LOADING+SYSTEM...+100%+⚡" alt="3D Typing Effect">
+</p>
+
+<!-- Animated Stars -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+</p>
+
+<!-- Cosmic Entrance -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- ===================== PART 2: THE CREATOR'S IDENTITY MATRIX ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=F7009F&center=true&vCenter=true&repeat=false&width=1000&lines=🚀+WELCOME+TO+MY+UNIVERSE+🌌" alt="Welcome Typing" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2000&pause=500&color=00F2FE&center=true&vCenter=true&width=900&lines=👨‍🚀+INITIALIZING+SYSTEM...;💻+LOADING+PROFILE...;🌟+SAKIB+ALL+HASAN+ONLINE;⚡+HSC+CANDIDATE+2026;🤖+FUTURE+EDTECH+ARCHITECT;🌍+CODE+WITH+LOVE+FROM+BANGLADESH" alt="Loading Typing" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
-
-<!-- ===================== 3D ANIMATED HEADER ===================== -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</p>
-
-<!-- ===================== NEBULA ENTRANCE ===================== -->
-
-<p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-</p>
-
-<!-- ===================== ANIMATED PROFILE CARD ===================== -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba7-8488-4ecb-9c68-3594e9654386.gif" width="200">
-  
-  <table border="0" cellspacing="0" cellpadding="20" style="background: linear-gradient(145deg, #0a0a1a, #1a0033); border-radius: 60px; border: 3px solid #ff00ff; box-shadow: 0 0 50px #ff00ff;">
+  <table border="0" cellpadding="20" style="border: 5px solid transparent; border-image: linear-gradient(45deg, #ff0080, #00f2fe, #ff0080); border-image-slice: 1; background: linear-gradient(145deg, #0a0a1f, #1a0033); border-radius: 70px; width: 95%; box-shadow: 0 0 100px #ff0080;">
     <tr>
-      <td align="center" colspan="2">
-        <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3d-b5c1-e9d65a2d7679.gif" width="50">
-        <h1 style="color: #ff69b4; font-family: Orbitron; font-size: 50px; text-shadow: 0 0 20px #ff00ff;">✨ IDENTITY MATRIX ✨</h1>
-        <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3d-b5c1-e9d65a2d7679.gif" width="50">
+      <td align="center" colspan="3">
+        <h1 style="color: #ff69b4; font-size: 70px; text-shadow: 0 0 30px #ff0080, 0 0 60px #8a2be2;">✦ 𝐈𝐃𝐄𝐍𝐓𝐈𝐓𝐘 𝐌𝐀𝐓𝐑𝐈𝐗 ✦</h1>
+        <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="200">
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55b343-10c2-438b-9477-8797518dac8d.gif" width="300" style="border-radius: 30px; border: 3px solid #00f2fe;">
+      <td align="center" width="33%" style="border-right: 3px dashed #00f2fe;">
+        <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="250" style="border-radius: 50%; border: 5px solid #ff69b4;">
+        <br><br>
+        <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200">
       </td>
-      <td align="left" width="50%">
-        <p style="color: #ffffff; font-size: 22px; line-height: 2;">
-          <img src="https://user-images.githubusercontent.com/74038190/206662607-d7e714cd-1c5e-47f9-9e2e-cf0e6d52ff83.gif" width="30"> <strong style="color:#ff0080;">NAME:</strong> Sakib All Hasan<br>
-          <img src="https://user-images.githubusercontent.com/74038190/206662607-d7e714cd-1c5e-47f9-9e2e-cf0e6d52ff83.gif" width="30"> <strong style="color:#ff0080;">STATUS:</strong> HSC Candidate 2026<br>
-          <img src="https://user-images.githubusercontent.com/74038190/206662607-d7e714cd-1c5e-47f9-9e2e-cf0e6d52ff83.gif" width="30"> <strong style="color:#ff0080;">MISSION:</strong> AI + EdTech<br>
-          <img src="https://user-images.githubusercontent.com/74038190/206662607-d7e714cd-1c5e-47f9-9e2e-cf0e6d52ff83.gif" width="30"> <strong style="color:#ff0080;">LOCATION:</strong> Bangladesh 🇧🇩<br>
-          <img src="https://user-images.githubusercontent.com/74038190/206662607-d7e714cd-1c5e-47f9-9e2e-cf0e6d52ff83.gif" width="30"> <strong style="color:#ff0080;">FREQUENCY:</strong> 528 Hz ❤️
-        </p>
+      <td align="center" width="34%" style="border-right: 3px dashed #00f2fe;">
+        <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300">
+        <br><br>
+        <h2 style="color: #00f2fe; font-size: 45px;">𝐒𝐀𝐊𝐈𝐁 𝐀𝐋𝐋 𝐇𝐀𝐒𝐀𝐍</h2>
+        <p style="color: #ffffff; font-size: 28px;">✦ 𝐇𝐒𝐂 𝐂𝐚𝐧𝐝𝐢𝐝𝐚𝐭𝐞 𝟐𝟎𝟐𝟔 ✦</p>
+        <p style="color: #ff69b4; font-size: 24px;">⚡ 𝐅𝐮𝐭𝐮𝐫𝐞 𝐄𝐝𝐓𝐞𝐜𝐡 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 ⚡</p>
+        <br>
+        <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="200">
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" style="border-radius: 50%; border: 5px solid #00f2fe;">
+        <br><br>
+        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200">
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
-        <p style="color: #ffd700; font-size: 28px; font-family: 'Sacramento'; text-shadow: 0 0 20px #ff0080;">
+      <td align="center" colspan="3">
+        <br>
+        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400">
+        <br><br>
+        <p style="color: #ffd700; font-size: 35px; font-family: 'Sacramento'; text-shadow: 0 0 20px #ff0080;">
           "আমি অনুপমের প্রথম সত্ত্বাও নই শেষ সত্ত্বাও নই, মধ্যবর্তী এক সত্ত্বার নাম ... ❤️"
         </p>
       </td>
@@ -76,326 +76,232 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-<!-- ===================== SKILLS GALAXY WITH ALL PERCENTAGES ===================== -->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-3e7a54ed-a878-4f54-b7f0-64beae3e1b9f.gif" width="100">
-  <h1 style="color: #ff69b4; font-size: 50px;">⚡ DIGITAL ARMORY ⚡</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-3e7a54ed-a878-4f54-b7f0-64beae3e1b9f.gif" width="100">
-  
-  <br><br>
-  
-  <table border="0" cellpadding="25" style="background: rgba(0,0,0,0.9); border-radius: 80px; border: 3px solid #00f2fe; box-shadow: 0 0 50px #00f2fe;">
-    <tr>
-      <td align="center" width="25%" style="border-right: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=c" width="100"><br>
-        <h3 style="color: #ff0080;">C LANGUAGE</h3>
-        <img src="https://progress-bar.dev/70/?title=PROGRESS&width=250&color=ff0080"><br>
-        <span style="color: #00f2fe;">████████░░ 80%</span>
-      </td>
-      <td align="center" width="25%" style="border-right: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=cpp" width="100"><br>
-        <h3 style="color: #ff4500;">C++</h3>
-        <img src="https://progress-bar.dev/0/?title=PROGRESS&width=250&color=ff4500"><br>
-        <span style="color: #00f2fe;">░░░░░░░░░░ 0%</span>
-      </td>
-      <td align="center" width="25%" style="border-right: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=java" width="100"><br>
-        <h3 style="color: #ffa500;">JAVA</h3>
-        <img src="https://progress-bar.dev/0/?title=PROGRESS&width=250&color=ffa500"><br>
-        <span style="color: #00f2fe;">░░░░░░░░░░ 0%</span>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=python" width="100"><br>
-        <h3 style="color: #00f2fe;">PYTHON</h3>
-        <img src="https://progress-bar.dev/40/?title=PROGRESS&width=250&color=00f2fe"><br>
-        <span style="color: #00f2fe;">████░░░░░░ 40%</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=html" width="100"><br>
-        <h3 style="color: #ff6347;">HTML5</h3>
-        <img src="https://progress-bar.dev/85/?title=PROGRESS&width=250&color=ff6347"><br>
-        <span style="color: #00f2fe;">████████░░ 85%</span>
-      </td>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=css" width="100"><br>
-        <h3 style="color: #1e90ff;">CSS3</h3>
-        <img src="https://progress-bar.dev/80/?title=PROGRESS&width=250&color=1e90ff"><br>
-        <span style="color: #00f2fe;">████████░░ 80%</span>
-      </td>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=js" width="100"><br>
-        <h3 style="color: #ffd700;">JAVASCRIPT</h3>
-        <img src="https://progress-bar.dev/55/?title=PROGRESS&width=250&color=ffd700"><br>
-        <span style="color: #00f2fe;">██████░░░░ 55%</span>
-      </td>
-      <td align="center" style="border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=ts" width="100"><br>
-        <h3 style="color: #3178c6;">TYPESCRIPT</h3>
-        <img src="https://progress-bar.dev/0/?title=PROGRESS&width=250&color=3178c6"><br>
-        <span style="color: #00f2fe;">░░░░░░░░░░ 0%</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=react" width="100"><br>
-        <h3 style="color: #61dafb;">REACT</h3>
-        <img src="https://progress-bar.dev/25/?title=PROGRESS&width=250&color=61dafb"><br>
-        <span style="color: #00f2fe;">███░░░░░░░ 25%</span>
-      </td>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="100"><br>
-        <h3 style="color: #8cc84b;">NODE.JS</h3>
-        <img src="https://progress-bar.dev/30/?title=PROGRESS&width=250&color=8cc84b"><br>
-        <span style="color: #00f2fe;">███░░░░░░░ 30%</span>
-      </td>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=express" width="100"><br>
-        <h3 style="color: #ffffff;">EXPRESS</h3>
-        <img src="https://progress-bar.dev/20/?title=PROGRESS&width=250&color=ffffff"><br>
-        <span style="color: #00f2fe;">██░░░░░░░░ 20%</span>
-      </td>
-      <td align="center" style="border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="100"><br>
-        <h3 style="color: #47a248;">MONGODB</h3>
-        <img src="https://progress-bar.dev/15/?title=PROGRESS&width=250&color=47a248"><br>
-        <span style="color: #00f2fe;">██░░░░░░░░ 15%</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=mysql" width="100"><br>
-        <h3 style="color: #4479a1;">MYSQL</h3>
-        <img src="https://progress-bar.dev/35/?title=PROGRESS&width=250&color=4479a1"><br>
-        <span style="color: #00f2fe;">████░░░░░░ 35%</span>
-      </td>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=postgres" width="100"><br>
-        <h3 style="color: #336791;">POSTGRESQL</h3>
-        <img src="https://progress-bar.dev/0/?title=PROGRESS&width=250&color=336791"><br>
-        <span style="color: #00f2fe;">░░░░░░░░░░ 0%</span>
-      </td>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=git" width="100"><br>
-        <h3 style="color: #f05032;">GIT</h3>
-        <img src="https://progress-bar.dev/50/?title=PROGRESS&width=250&color=f05032"><br>
-        <span style="color: #00f2fe;">█████░░░░░ 50%</span>
-      </td>
-      <td align="center" style="border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=github" width="100"><br>
-        <h3 style="color: #ffffff;">GITHUB</h3>
-        <img src="https://progress-bar.dev/60/?title=PROGRESS&width=250&color=ffffff"><br>
-        <span style="color: #00f2fe;">██████░░░░ 60%</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=php" width="100"><br>
-        <h3 style="color: #777bb4;">PHP</h3>
-        <img src="https://progress-bar.dev/0/?title=PROGRESS&width=250&color=777bb4"><br>
-        <span style="color: #00f2fe;">░░░░░░░░░░ 0%</span>
-      </td>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=laravel" width="100"><br>
-        <h3 style="color: #ff2d20;">LARAVEL</h3>
-        <img src="https://progress-bar.dev/0/?title=PROGRESS&width=250&color=ff2d20"><br>
-        <span style="color: #00f2fe;">░░░░░░░░░░ 0%</span>
-      </td>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=django" width="100"><br>
-        <h3 style="color: #092e20;">DJANGO</h3>
-        <img src="https://progress-bar.dev/0/?title=PROGRESS&width=250&color=092e20"><br>
-        <span style="color: #00f2fe;">░░░░░░░░░░ 0%</span>
-      </td>
-      <td align="center" style="border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=flask" width="100"><br>
-        <h3 style="color: #ffffff;">FLASK</h3>
-        <img src="https://progress-bar.dev/0/?title=PROGRESS&width=250&color=ffffff"><br>
-        <span style="color: #00f2fe;">░░░░░░░░░░ 0%</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=docker" width="100"><br>
-        <h3 style="color: #2496ed;">DOCKER</h3>
-        <img src="https://progress-bar.dev/0/?title=PROGRESS&width=250&color=2496ed"><br>
-        <span style="color: #00f2fe;">░░░░░░░░░░ 0%</span>
-      </td>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="100"><br>
-        <h3 style="color: #326ce5;">KUBERNETES</h3>
-        <img src="https://progress-bar.dev/0/?title=PROGRESS&width=250&color=326ce5"><br>
-        <span style="color: #00f2fe;">░░░░░░░░░░ 0%</span>
-      </td>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=aws" width="100"><br>
-        <h3 style="color: #ff9900;">AWS</h3>
-        <img src="https://progress-bar.dev/0/?title=PROGRESS&width=250&color=ff9900"><br>
-        <span style="color: #00f2fe;">░░░░░░░░░░ 0%</span>
-      </td>
-      <td align="center" style="border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=azure" width="100"><br>
-        <h3 style="color: #0078d4;">AZURE</h3>
-        <img src="https://progress-bar.dev/0/?title=PROGRESS&width=250&color=0078d4"><br>
-        <span style="color: #00f2fe;">░░░░░░░░░░ 0%</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="100"><br>
-        <h3 style="color: #06b6d4;">TAILWIND</h3>
-        <img src="https://progress-bar.dev/45/?title=PROGRESS&width=250&color=06b6d4"><br>
-        <span style="color: #00f2fe;">█████░░░░░ 45%</span>
-      </td>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="100"><br>
-        <h3 style="color: #7952b3;">BOOTSTRAP</h3>
-        <img src="https://progress-bar.dev/70/?title=PROGRESS&width=250&color=7952b3"><br>
-        <span style="color: #00f2fe;">███████░░░ 70%</span>
-      </td>
-      <td align="center" style="border-right: 2px dashed #ff0080; border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=sass" width="100"><br>
-        <h3 style="color: #cc6699;">SASS</h3>
-        <img src="https://progress-bar.dev/30/?title=PROGRESS&width=250&color=cc6699"><br>
-        <span style="color: #00f2fe;">███░░░░░░░ 30%</span>
-      </td>
-      <td align="center" style="border-top: 2px dashed #ff0080;">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="100"><br>
-        <h3 style="color: #ff69b4;">STYLED COMP</h3>
-        <img src="https://progress-bar.dev/20/?title=PROGRESS&width=250&color=ff69b4"><br>
-        <span style="color: #00f2fe;">██░░░░░░░░ 20%</span>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- ===================== PART 3: THE DIGITAL ARMORY - ULTIMATE SKILLS MATRIX ===================== -->
 
 <p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100">
 </p>
 
-<!-- ===================== PROJECT CONSTELLATION ===================== -->
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <h1 style="color: #ff69b4; font-size: 50px;">🌟 PROJECT CONSTELLATION 🌟</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  
-  <br><br>
-  
-  <table border="0" cellpadding="20" style="background: linear-gradient(135deg, #0a001a, #1a0033); border-radius: 70px; border: 3px solid #ff0080;">
+  <table border="0" cellpadding="30" style="background: linear-gradient(45deg, #000428, #004e92); border-radius: 100px; border: 5px solid transparent; border-image: linear-gradient(135deg, #ff69b4, #00f2fe, #8a2be2, #ff69b4); border-image-slice: 1; width: 100%; box-shadow: 0 0 150px #00f2fe;">
     <tr>
-      <td align="center" width="25%" style="border-right: 2px solid #00f2fe;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150"><br>
-        <h3 style="color: #ff0080;">❤️ LOVE PROJECT</h3>
-        <p style="color: #ffffff;">Creative UI & logic experiments</p>
-        <img src="https://progress-bar.dev/60/?title=COMPLETE&width=200&color=ff0080">
-      </td>
-      <td align="center" width="25%" style="border-right: 2px solid #00f2fe;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150"><br>
-        <h3 style="color: #8a2be2;">🌌 VISUALWATCH</h3>
-        <p style="color: #ffffff;">Tech repository & journal</p>
-        <img src="https://progress-bar.dev/80/?title=COMPLETE&width=200&color=8a2be2">
-      </td>
-      <td align="center" width="25%" style="border-right: 2px solid #00f2fe;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150"><br>
-        <h3 style="color: #00f2fe;">📚 EDTECH-LEARN</h3>
-        <p style="color: #ffffff;">AI-powered learning tools</p>
-        <img src="https://progress-bar.dev/40/?title=COMPLETE&width=200&color=00f2fe">
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150"><br>
-        <h3 style="color: #ff69b4;">🎮 CODEPLAY</h3>
-        <p style="color: #ffffff;">Coding playground</p>
-        <img src="https://progress-bar.dev/70/?title=COMPLETE&width=200&color=ff69b4">
+      <td align="center" colspan="4">
+        <h1 style="color: #ff69b4; font-size: 80px; text-shadow: 0 0 40px #ff0080;">⚡ 𝐓𝐇𝐄 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐀𝐑𝐌𝐎𝐑𝐘 ⚡</h1>
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
       </td>
     </tr>
     <tr>
-      <td align="center" style="border-right: 2px solid #00f2fe; border-top: 2px solid #00f2fe;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150"><br>
-        <h3 style="color: #adff2f;">🤖 SMART AI</h3>
-        <p style="color: #ffffff;">AI experiments</p>
-        <img src="https://progress-bar.dev/30/?title=COMPLETE&width=200&color=adff2f">
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="150">
+        <br>
+        <h2 style="color: #ff0080; font-size: 40px;">𝐂</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #ff0080 70%, #333 70%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">████████░░ 80%</p>
+        <p style="color: #ffffff; font-size: 18px;">✓ Pointers Mastery<br>✓ Memory Management<br>✓ Data Structures<br>✓ Algorithm Design</p>
       </td>
-      <td align="center" style="border-right: 2px solid #00f2fe; border-top: 2px solid #00f2fe;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150"><br>
-        <h3 style="color: #ffa500;">🌟 PORTFOLIO</h3>
-        <p style="color: #ffffff;">Personal website</p>
-        <img src="https://progress-bar.dev/75/?title=COMPLETE&width=200&color=ffa500">
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="150">
+        <br>
+        <h2 style="color: #ff4500; font-size: 40px;">𝐂++</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #ff4500 0%, #333 0%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">░░░░░░░░░░ 0%</p>
+        <p style="color: #ffffff; font-size: 18px;">✗ Not Started<br>✗ Future Goal<br>✗ Planned for 2026<br>✗ Coming Soon</p>
       </td>
-      <td align="center" style="border-right: 2px solid #00f2fe; border-top: 2px solid #00f2fe;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150"><br>
-        <h3 style="color: #ff4500;">💰 CRYPTO TRACKER</h3>
-        <p style="color: #ffffff;">Cryptocurrency tracker</p>
-        <img src="https://progress-bar.dev/50/?title=COMPLETE&width=200&color=ff4500">
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="150">
+        <br>
+        <h2 style="color: #ffa500; font-size: 40px;">𝐉𝐀𝐕𝐀</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #ffa500 0%, #333 0%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">░░░░░░░░░░ 0%</p>
+        <p style="color: #ffffff; font-size: 18px;">✗ Not Started<br>✗ Future Learning<br>✗ Android Dev Goal<br>✗ Planned</p>
       </td>
-      <td align="center" style="border-top: 2px solid #00f2fe;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150"><br>
-        <h3 style="color: #00fa9a;">🌤️ WEATHER APP</h3>
-        <p style="color: #ffffff;">Weather forecast</p>
-        <img src="https://progress-bar.dev/60/?title=COMPLETE&width=200&color=00fa9a">
+      <td align="center" width="25%" style="border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="150">
+        <br>
+        <h2 style="color: #00f2fe; font-size: 40px;">𝐏𝐘𝐓𝐇𝐎𝐍</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #00f2fe 40%, #333 40%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">████░░░░░░ 40%</p>
+        <p style="color: #ffffff; font-size: 18px;">✓ Automation Scripts<br>✓ Data Structures<br>✓ API Integration<br>✓ AI/ML Learning</p>
       </td>
     </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-</p>
-
-<!-- ===================== GITHUB METRICS ===================== -->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
-  <h1 style="color: #ff69b4; font-size: 50px;">📊 QUANTUM METRICS 📊</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
-  
-  <br><br>
-  
-  <table border="0" width="100%">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=VisualWatch&show_icons=true&theme=radical&border_radius=30&bg_color=0d1117&title_color=ff69b4&icon_color=00f2fe" width="100%">
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="150">
+        <br>
+        <h2 style="color: #ff6347; font-size: 40px;">𝐇𝐓𝐌𝐋𝟓</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #ff6347 85%, #333 85%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">██████████ 85%</p>
+        <p style="color: #ffffff; font-size: 18px;">✓ Semantic HTML<br>✓ Forms & Validation<br>✓ SEO Basics<br>✓ Accessibility</p>
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisualWatch&layout=pie&theme=radical&border_radius=30&bg_color=0d1117&title_color=ff69b4" width="100%">
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="150">
+        <br>
+        <h2 style="color: #1e90ff; font-size: 40px;">𝐂𝐒𝐒𝟑</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #1e90ff 80%, #333 80%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">████████░░ 80%</p>
+        <p style="color: #ffffff; font-size: 18px;">✓ Flexbox/Grid<br>✓ Animations<br>✓ Responsive Design<br>✓ CSS Variables</p>
+      </td>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150">
+        <br>
+        <h2 style="color: #ffd700; font-size: 40px;">𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #ffd700 55%, #333 55%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">██████░░░░ 55%</p>
+        <p style="color: #ffffff; font-size: 18px;">✓ DOM Manipulation<br>✓ ES6+ Features<br>✓ Async/Await<br>✓ Event Handling</p>
+      </td>
+      <td align="center" width="25%" style="border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="150">
+        <br>
+        <h2 style="color: #3178c6; font-size: 40px;">𝐓𝐘𝐏𝐄𝐒𝐂𝐑𝐈𝐏𝐓</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #3178c6 0%, #333 0%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">░░░░░░░░░░ 0%</p>
+        <p style="color: #ffffff; font-size: 18px;">✗ Not Started<br>✗ Future Goal<br>✗ Type Safety<br>✗ Coming Soon</p>
       </td>
     </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisualWatch&theme=radical&border_radius=30&background=0d1117" width="100%">
-  
-  <br><br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=VisualWatch&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%">
-  
-  <br><br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VisualWatch&bg_color=0d1117&color=ff69b4&line=00f2fe&point=ffffff&area=true&hide_border=true" width="100%">
-</div>
-
-<p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-</p>
-
-<!-- ===================== CONNECT WITH ME ===================== -->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3d-b5c1-e9d65a2d7679.gif" width="100">
-  <h1 style="color: #ff69b4; font-size: 50px;">📡 CONNECT WITH ME 📡</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3d-b5c1-e9d65a2d7679.gif" width="100">
-  
-  <br><br>
-  
-  <p align="center">
-    <a href="mailto:sakiballhasan2008@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=ff0080&logoWidth=40&size=50"/></a>
-    <a href="https://www.facebook.com/profile.php?id=61582830779543"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black&color=8a2be2"/></a>
-    <a href="https://www.threads.net/@alpha.hydrogen_"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white&labelColor=black&color=00f2fe"/></a>
-    <a href="https://www.instagram.com/alpha.hydrogen_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black&color=ff69b4"/></a>
-    <a href="https://t.me/sakib_all_hasan"><img src="https://img.shields.io/badge
+    <tr>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="150">
+        <br>
+        <h2 style="color: #61dafb; font-size: 40px;">𝐑𝐄𝐀𝐂𝐓</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #61dafb 25%, #333 25%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">███░░░░░░░ 25%</p>
+        <p style="color: #ffffff; font-size: 18px;">✓ Components<br>✓ Hooks Basics<br>✓ Props & State<br>✗ Advanced Patterns</p>
+      </td>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="150">
+        <br>
+        <h2 style="color: #8cc84b; font-size: 40px;">𝐍𝐎𝐃𝐄.𝐉𝐒</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #8cc84b 30%, #333 30%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">███░░░░░░░ 30%</p>
+        <p style="color: #ffffff; font-size: 18px;">✓ npm Basics<br>✓ Express.js<br>✓ REST APIs<br>✓ Middleware</p>
+      </td>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="150">
+        <br>
+        <h2 style="color: #ffffff; font-size: 40px;">𝐄𝐗𝐏𝐑𝐄𝐒𝐒</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #ffffff 20%, #333 20%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">██░░░░░░░░ 20%</p>
+        <p style="color: #ffffff; font-size: 18px;">✓ Routing<br>✓ Middleware<br>✓ Basic APIs<br>✗ Advanced</p>
+      </td>
+      <td align="center" width="25%" style="border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="150">
+        <br>
+        <h2 style="color: #47a248; font-size: 40px;">𝐌𝐎𝐍𝐆𝐎𝐃𝐁</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #47a248 15%, #333 15%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">██░░░░░░░░ 15%</p>
+        <p style="color: #ffffff; font-size: 18px;">✓ Basic CRUD<br>✓ Schemas<br>✗ Aggregation<br>✗ Optimization</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="150">
+        <br>
+        <h2 style="color: #4479a1; font-size: 40px;">𝐌𝐘𝐒𝐐𝐋</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #4479a1 35%, #333 35%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">████░░░░░░ 35%</p>
+        <p style="color: #ffffff; font-size: 18px;">✓ SQL Queries<br>✓ Database Design<br>✓ Relationships<br>✗ Optimization</p>
+      </td>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="150">
+        <br>
+        <h2 style="color: #336791; font-size: 40px;">𝐏𝐎𝐒𝐓𝐆𝐑𝐄𝐒𝐐𝐋</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #336791 0%, #333 0%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">░░░░░░░░░░ 0%</p>
+        <p style="color: #ffffff; font-size: 18px;">✗ Not Started<br>✗ Future Learning<br>✗ Advanced DB<br>✗ Coming Soon</p>
+      </td>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="150">
+        <br>
+        <h2 style="color: #f05032; font-size: 40px;">𝐆𝐈𝐓</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #f05032 50%, #333 50%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">█████░░░░░ 50%</p>
+        <p style="color: #ffffff; font-size: 18px;">✓ Version Control<br>✓ Branching<br>✓ Merging<br>✓ Basic Commands</p>
+      </td>
+      <td align="center" width="25%" style="border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="150">
+        <br>
+        <h2 style="color: #ffffff; font-size: 40px;">𝐆𝐈𝐓𝐇𝐔𝐁</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #ffffff 60%, #333 60%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">██████░░░░ 60%</p>
+        <p style="color: #ffffff; font-size: 18px;">✓ Repositories<br>✓ Pull Requests<br>✓ Actions<br>✓ Pages</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="150">
+        <br>
+        <h2 style="color: #777bb4; font-size: 40px;">𝐏𝐇𝐏</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #777bb4 0%, #333 0%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">░░░░░░░░░░ 0%</p>
+        <p style="color: #ffffff; font-size: 18px;">✗ Not Started<br>✗ Future Learning<br>✗ Backend Goal<br>✗ Coming Soon</p>
+      </td>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="150">
+        <br>
+        <h2 style="color: #ff2d20; font-size: 40px;">𝐋𝐀𝐑𝐀𝐕𝐄𝐋</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #ff2d20 0%, #333 0%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">░░░░░░░░░░ 0%</p>
+        <p style="color: #ffffff; font-size: 18px;">✗ Not Started<br>✗ Future Learning<br>✗ PHP Framework<br>✗ Coming Soon</p>
+      </td>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="150">
+        <br>
+        <h2 style="color: #092e20; font-size: 40px;">𝐃𝐉𝐀𝐍𝐆𝐎</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #092e20 0%, #333 0%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">░░░░░░░░░░ 0%</p>
+        <p style="color: #ffffff; font-size: 18px;">✗ Not Started<br>✗ Future Learning<br>✗ Python Web<br>✗ Coming Soon</p>
+      </td>
+      <td align="center" width="25%" style="border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="150">
+        <br>
+        <h2 style="color: #ffffff; font-size: 40px;">𝐅𝐋𝐀𝐒𝐊</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #ffffff 0%, #333 0%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">░░░░░░░░░░ 0%</p>
+        <p style="color: #ffffff; font-size: 18px;">✗ Not Started<br>✗ Future Learning<br>✗ Microframework<br>✗ Coming Soon</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="150">
+        <br>
+        <h2 style="color: #2496ed; font-size: 40px;">𝐃𝐎𝐂𝐊𝐄𝐑</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #2496ed 0%, #333 0%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">░░░░░░░░░░ 0%</p>
+        <p style="color: #ffffff; font-size: 18px;">✗ Not Started<br>✗ Future Learning<br>✗ Containerization<br>✗ Coming Soon</p>
+      </td>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="150">
+        <br>
+        <h2 style="color: #326ce5; font-size: 40px;">𝐊𝐔𝐁𝐄𝐑𝐍𝐄𝐓𝐄𝐒</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #326ce5 0%, #333 0%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">░░░░░░░░░░ 0%</p>
+        <p style="color: #ffffff; font-size: 18px;">✗ Not Started<br>✗ Future Learning<br>✗ Orchestration<br>✗ Coming Soon</p>
+      </td>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="150">
+        <br>
+        <h2 style="color: #ff9900; font-size: 40px;">𝐀𝐖𝐒</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #ff9900 0%, #333 0%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">░░░░░░░░░░ 0%</p>
+        <p style="color: #ffffff; font-size: 18px;">✗ Not Started<br>✗ Future Learning<br>✗ Cloud Computing<br>✗ Coming Soon</p>
+      </td>
+      <td align="center" width="25%" style="border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="150">
+        <br>
+        <h2 style="color: #0078d4; font-size: 40px;">𝐀𝐙𝐔𝐑𝐄</h2>
+        <div style="width: 300px; height: 50px; background: linear-gradient(90deg, #0078d4 0%, #333 0%); border-radius: 50px; border: 3px solid #00f2fe;"></div>
+        <p style="color: #00f2fe; font-size: 30px;">░░░░░░░░░░ 0%</p>
+        <p style="color: #ffffff; font-size: 18px;">✗ Not Started<br>✗ Future Learning<br>✗ Microsoft Cloud<br>✗ Coming Soon</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%" style="border-right: 3px solid #ff69b4; border-bottom: 3px solid #ff69b4; padding: 40px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="150">
+        <br>
+        <h2 style="color: #06b6d4; font-size: 40px;">𝐓𝐀𝐈𝐋𝐖𝐈𝐍𝐃</h2>
+        <div style="width: 300px; height: 50px; background
