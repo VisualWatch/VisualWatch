@@ -28,18 +28,6 @@
 
 ---
 
-## 💼 Work Time & Profile Views  
-
-<p align="center">
-  🕒 Work Hours: 10:00 AM – 10:00 PM 🌟  
-</p>
-
-<p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=VisualWatch&color=blue)
-</p>
-
----
-
 ## 📚 Projects / Repositories  
 
 <p align="center">
@@ -55,6 +43,22 @@
 <p align="center">
   <img src="./assets/contact-emoji.gif" width="80" alt="Animated Contact Emoji"/>
 </p>
+
+---
+
+## 💼 Work Time / Profile Views / Download CV  
+
+<p align="center">
+
+[![Profile Views](https://img.shields.io/badge/Profile_Views-👁️%20Count-blue?style=for-the-badge)](https://komarev.com/ghpvc/?username=VisualWatch)
+
+[![Work Time](https://img.shields.io/badge/Work_Time-10:00AM--10:00PM-green?style=for-the-badge)](#)
+
+[![Download CV](https://img.shields.io/badge/Download_CV-Click_here-red?style=for-the-badge)](./assets/Sakib_All_Hasan_CV.pdf)
+
+</p>
+
+---
 
 ## 🌐 Connect With Me  
 
